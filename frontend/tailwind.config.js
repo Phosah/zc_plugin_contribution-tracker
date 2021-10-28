@@ -24,7 +24,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        'sans': ['Lato', 'sans-serif']
+        'Lato': ['Lato', 'sans-serif']
       }
     },
   },

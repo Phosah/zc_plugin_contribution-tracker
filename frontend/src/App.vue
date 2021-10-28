@@ -1,13 +1,19 @@
 <template>
-  <router-view/>
+  <div id="app">
+    <router-view/>
+  </div>
 </template>
 
 <script>
 export default {
   data() {
-    return {
-
-    }
+    return {}
   },
 }
 </script>
+
+<style>
+#app {
+  font-family: Lato;
+}
+</style>
